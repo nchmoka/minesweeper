@@ -11,5 +11,5 @@ import into IDE and run MinesFX.java
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/nchmoka/minesweeper/blob/main/MinesweeperDemo.png)
 
